@@ -8,5 +8,8 @@ public class A
 	{
 		
 	}
+	public void m2()
+	{
+	}
 
 }
