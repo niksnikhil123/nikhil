@@ -16,6 +16,9 @@ public class Test1
     		System.out.println("finally-Block:" +x);
     		return x;
     	}
+	    public void m2()
+		    {
+	            }
     }
     public static void main(String[] args) 
     {
